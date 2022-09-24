@@ -163,6 +163,7 @@ public class ProductView extends FormLayout {
             productCost.setValue(0.0);
             productProfit.setValue(0.0);
             productPrice.setValue(0.0);
+            this.id = "";
         });
 
     }
